@@ -9,7 +9,9 @@ The results of our implementation can be found in this article: [Reproduction Ch
 ## Models used
 
 *MOLMO*: Multimodal model used to detect and localize objects within the images.
+
 *SAM*: Segmentation model used to create masks corresponding to the objects detected.
+
 *Stable Diffusion inpainting*: Image generation model used to remove the objects in the images using the masks
 
 ## Requirements
