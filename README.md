@@ -6,6 +6,12 @@ The objective of this repository is to reproduce and extend the results of this 
 
 The results of our implementation can be found in this article: [Reproduction Challenge: Visual Jenga](https://github.com/thaid27/visual_jenga/blob/main/reproducibility_visual_jenga.pdf)
 
+## Models used
+
+*MOLMO*: Multimodal model used to detect and localize objects within the images.
+*SAM*: Segmentation model used to create masks corresponding to the objects detected.
+*Stable Diffusion inpainting*: Image generation model used to remove the objects in the images using the masks
+
 ## Requirements
 
 This challenge was done mostly using [Kaggle](https://www.kaggle.com/code) to run the notebooks, due to the large size of the models used. As such, this project is better suited for usage on Kaggle rather than on a local machine. 
