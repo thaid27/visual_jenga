@@ -2,7 +2,9 @@
 
 # Reproducibility Challenge : Visual Jenga
 
-The objective of this repository is to reproduce and extend the results of this paper : [Visual Jenga: Discovering Object Dependencies via Counterfactual Inpainting](https://arxiv.org/pdf/2503.21770)
+The objective of this repository is to reproduce and extend the results of this paper: [Visual Jenga: Discovering Object Dependencies via Counterfactual Inpainting](https://arxiv.org/pdf/2503.21770)
+
+The results of our implementation can be found in this article: [Reproduction Challenge: Visual Jenga](https://github.com/thaid27/visual_jenga/blob/main/reproducibility_visual_jenga.pdf)
 
 ## Requirements
 
